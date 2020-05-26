@@ -1,0 +1,16 @@
+body {
+    background-color: #264140;
+    color: #ffffff;
+    padding-right: 20%;
+    padding-left: 20%;
+    font-family: dejavu;
+    font-size: 120%;
+}
+
+hr {
+    color: #ffffff;
+}
+
+a {
+    color: #1F8E8B;
+}
