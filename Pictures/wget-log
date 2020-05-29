@@ -1,0 +1,15 @@
+--2020-05-28 19:38:43--  https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fkosmossociety.chs.harvard.edu%2Fwp-content%2Fuploads%2F2016%2F02%2FMonsiau_-_Alexandre_et_Diog%25C3%25A8ne.jpg
+Resolving www.startpage.com (www.startpage.com)... 216.218.239.22
+Connecting to www.startpage.com (www.startpage.com)|216.218.239.22|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.startpage.com/ [following]
+--2020-05-28 19:38:44--  https://www.startpage.com/
+Reusing existing connection to www.startpage.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11659 (11K) [text/html]
+Saving to: ‘proxy-image?piurl=https:%2F%2Fkosmossociety.chs.harvard.edu%2Fwp-content%2Fuploads%2F2016%2F02%2FMonsiau_-_Alexandre_et_Diog%C3%A8ne.jpg’
+
+          proxy-ima   0%[                    ]       0  --.-KB/s               proxy-image?piurl=h 100%[===================>]  11.39K  --.-KB/s    in 0.004s  
+
+2020-05-28 19:38:44 (2.81 MB/s) - ‘proxy-image?piurl=https:%2F%2Fkosmossociety.chs.harvard.edu%2Fwp-content%2Fuploads%2F2016%2F02%2FMonsiau_-_Alexandre_et_Diog%C3%A8ne.jpg’ saved [11659/11659]
+
